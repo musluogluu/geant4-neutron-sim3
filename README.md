@@ -1,6 +1,6 @@
 # SpallationSim: Geant4 Nuclear Spallation Simulation
 
-This project simulates nuclear spallation of a tungsten target using a 1 GeV proton beam. The simulation is implemented in Geant4 and was developed as part of the BL4S CERN project for pre-experimental validation.
+This project simulates nuclear spallation of a target using a 1 GeV proton beam. The simulation is implemented in Geant4 and was developed as part of the BL4S CERN project for pre-experimental validation.
 
 ---
 
@@ -67,7 +67,7 @@ plot_angle_distribution("neutron_output.csv")
 
 ## Objective
 
-This experiment is planned to be performed during the CERN Beamline for Schools (BL4S) 2024 program, aiming to observe neutron production and its energy-angular distribution via spallation.
+This experiment is planned to be performed during the CERN Beamline for Schools (BL4S) 2024 program by PhysiCAL team, aiming to observe neutron production and its energy-angular distribution via spallation.
 
 ---
 
